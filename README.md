@@ -5,4 +5,4 @@ This project was made in JavaScript during graduate by IGTI.
 ### Open with live server
 
 
-# react-flashcards 
+# make-up-catalog
